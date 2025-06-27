@@ -63,7 +63,7 @@ export default function HomeScreen() {
   return (
     <ScrollView style={[styles.container, { backgroundColor: '#000000' }]}>
       <ThemedView style={[styles.header, { backgroundColor: '#1C1C1E' }]}>
-        <ThemedText type="title" style={{ color: '#FFFFFF' }}>Failed Project</ThemedText>
+        <ThemedText type="title" style={{ color: '#FFFFFF' }}>THE HEADPHONES</ThemedText>
         <ThemedText style={[styles.subtitle, { color: '#8E8E93' }]}>
           Discover Failed headphones
         </ThemedText>
